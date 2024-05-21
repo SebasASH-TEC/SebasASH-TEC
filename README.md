@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebasASH-TEC
 - 👀 I’m interested in Computers, music, Sport science and learning
 - 🌱 I’m currently learning Computer's Engineering
-- 💞️ I’m looking to collaborate on research and personal projects
+- 💞️ I’m looking to learn through research and personal projects
 
 <!---
 SebasASH-TEC/SebasASH-TEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
