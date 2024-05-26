@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebasASH-TEC
-- 👀 I’m interested in Computers, music, Sport science and learning
-- 🌱 I’m currently learning Computer's Engineering
+- 👀 I’m interested in computers, music, sports science, gaming, and learning random stuff
+- 🌱 I’m currently an undergrad in a Computer's Engineering degree
 - 💞️ I’m looking to learn through research and personal projects
 
 <!---
